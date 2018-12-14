@@ -10,14 +10,6 @@ namespace WcfServiceLibraryClient
     {
         static void Main(string[] args)
         {
-            //ServiceReference1.HelloServiceClient client = new ServiceReference1.HelloServiceClient();
-            //client.Open();
-            //Console.WriteLine("Enter your Good Name");
-            //string name = Console.ReadLine().ToString();
-            //Console.WriteLine(client.SayHello(name));
-            //client.Close();
-            //Console.Read();
-
             ServiceReference1.HelloServiceClient client = new ServiceReference1.HelloServiceClient();
             client.Open();
             Console.WriteLine("Enter your Good Name");
