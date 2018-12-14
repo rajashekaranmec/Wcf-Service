@@ -1,0 +1,16 @@
+D:\Workspace\FSD\WcfServiceLibrary\WcfServiceLibraryHosts\bin\Debug\WcfServiceLibraryHosts.exe.config
+D:\Workspace\FSD\WcfServiceLibrary\WcfServiceLibraryHosts\bin\Debug\WcfServiceLibraryHosts.exe
+D:\Workspace\FSD\WcfServiceLibrary\WcfServiceLibraryHosts\bin\Debug\WcfServiceLibraryHosts.pdb
+D:\Workspace\FSD\WcfServiceLibrary\WcfServiceLibraryHosts\bin\Debug\WcfServiceLibrary.dll
+D:\Workspace\FSD\WcfServiceLibrary\WcfServiceLibraryHosts\bin\Debug\WcfServiceLibrary.pdb
+D:\Workspace\FSD\WcfServiceLibrary\WcfServiceLibraryHosts\obj\Debug\WcfServiceLibraryHosts.csprojResolveAssemblyReference.cache
+D:\Workspace\FSD\WcfServiceLibrary\WcfServiceLibraryHosts\obj\Debug\WcfServiceLibraryHosts.exe
+D:\Workspace\FSD\WcfServiceLibrary\WcfServiceLibraryHosts\obj\Debug\WcfServiceLibraryHosts.pdb
+D:\FSD_Clone\WcfServiceLibraryClient\WcfServiceLibraryClient\WcfServiceLibrary\WcfServiceLibraryHosts\bin\Debug\WcfServiceLibraryHosts.exe.config
+D:\FSD_Clone\WcfServiceLibraryClient\WcfServiceLibraryClient\WcfServiceLibrary\WcfServiceLibraryHosts\bin\Debug\WcfServiceLibraryHosts.exe
+D:\FSD_Clone\WcfServiceLibraryClient\WcfServiceLibraryClient\WcfServiceLibrary\WcfServiceLibraryHosts\bin\Debug\WcfServiceLibraryHosts.pdb
+D:\FSD_Clone\WcfServiceLibraryClient\WcfServiceLibraryClient\WcfServiceLibrary\WcfServiceLibraryHosts\bin\Debug\WcfServiceLibrary.dll
+D:\FSD_Clone\WcfServiceLibraryClient\WcfServiceLibraryClient\WcfServiceLibrary\WcfServiceLibraryHosts\bin\Debug\WcfServiceLibrary.pdb
+D:\FSD_Clone\WcfServiceLibraryClient\WcfServiceLibraryClient\WcfServiceLibrary\WcfServiceLibraryHosts\obj\Debug\WcfServiceLibraryHosts.csprojResolveAssemblyReference.cache
+D:\FSD_Clone\WcfServiceLibraryClient\WcfServiceLibraryClient\WcfServiceLibrary\WcfServiceLibraryHosts\obj\Debug\WcfServiceLibraryHosts.exe
+D:\FSD_Clone\WcfServiceLibraryClient\WcfServiceLibraryClient\WcfServiceLibrary\WcfServiceLibraryHosts\obj\Debug\WcfServiceLibraryHosts.pdb
